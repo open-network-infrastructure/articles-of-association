@@ -9,7 +9,7 @@ Under the name Open Network Infrastructure Association exists a non‐profit ass
 
 *Network* in this context refers to a group of interconnected electronic systems.
 
-*Open* means it should be freely accessible by anyone, at anytime, without having to ask for permission.
+*Open* in this context means the network should be freely accessible by anyone, at anytime, without having to ask for permission. The key features of openness are: availability and access, reuse and redistribution, universal participation; in accordance with the [definitions of Open Knowledge International](https://okfn.org/opendata/) and [The Open Definition](http://opendefinition.org/).
 
 ### Article 3 Purpose of the Association
 The purpose of the association is to promote open network infrastructure by, for example:
