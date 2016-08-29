@@ -138,6 +138,7 @@ The vice president has the casting right, if the president cannot be present at 
 The finance officer is responsible for the finances and keeping the books.
 
 *The Recorder*
+
 The recorder is responsible for the secretariat of the association, which among other things includes taking minutes at meetings, ensuring transparency and ensuring the registry of members is up to date.
 
 *Other offices deemed necessary by the executive committee*
