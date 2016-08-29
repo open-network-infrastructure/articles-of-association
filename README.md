@@ -22,21 +22,20 @@ The association is domiciled in Zurich and exists for an unlimited period.
 
 ### Article 5 Organisation
 The organs of the association are:
- - the general assembly
- - the executive committee
- - the internal auditor
+ - the general assembly.
+ - the executive committee.
+ - the internal auditor.
  - if instituted by a majority present at a general assembly, an external auditor.
 
 ### Article 6 Financial Means
-The financial means of the associations consists of membership fees, all types of donations including inheritances, directed donations, returns of activities of the association, revenues from performance agreements (“Leistungsaufträge”) and if applicable subsidies from public sector entities.
+The financial means of the association consists of membership fees, all types of donations including inheritances, directed donations, returns of activities of the association, revenues from performance agreements (“Leistungsaufträge”) and if applicable subsidies from public sector entities.
 
 All the financial means of the association are to be permanently and exclusively used towards the goals of the association.
 
-In case of dissolution of the association all the remaining financial means have to be given to another legal person domiciled in Switzerland. That other legal person has to be tax-exempt because its purpose is charitable or serving the common good. This rule is mandatory. <sup>1</sup>
+In case of dissolution of the association all the remaining financial means have to be given to another legal person domiciled in Switzerland. That other legal person has to be tax-exempt because its purpose is charitable or serving the common good. This rule is mandatory. 
 
 The financial year begins on 1st January and ends on 31st December.
 
-<sup>1)</sup> *This slightly clumsy formulation is necessary if we ever want to get a full tax exempt status. In the canton of Zurich, associations have to pay taxes on profits of over CHF 10000 and capital of over CHF 100000.*
 
 ### Article 7 Liability
 In accordance with article 75a of the Swiss Civil Code the association is liable for its obligations with its own assets only. Any personal liability of its members is excluded.
@@ -48,8 +47,8 @@ The executive committee decides on the admission of new members and informs the 
 
 ### Article 9 Membership Fee
 The membership fees are:
- - CHF 10/year for natural persons
- - CHF 50/year for legal persons <sup>2</sup>
+ - CHF XX/year for natural persons
+ - CHF XX/year for legal persons <sup>2</sup>
 
 To be paid in swiss francs or its equivalent in another currency deemed acceptable as payment by the executive committee.
 
@@ -64,7 +63,7 @@ The association can be left at any time by a written declaration, either via ema
 
 *Exclusion due to important reasons*
 
-If requested by the executive committee or by a group consisting of at least ten percent of all the members, the general assembly can exclude a member for important reasons with a majority of 2/3 of the members present at the general assembly. The member can take part in this vote. The member that is to be excluded has, in accordance with Swiss law, the right to have his arguments heard at the general assembly, either in person or via telephone or live stream. He can be accompanied to the hearing by a person of his choosing, who does not have to be a member of the association. If he does not wish to attend the hearing, he can submit his arguments in written form to the general assembly.
+If requested by the executive committee or by a group consisting of at least ten percent of all the members, the ordinary or extraordinary general assembly can exclude a member for important reasons with a majority of 2/3 of the members present at the general assembly. The member can take part in this vote. The member that is to be excluded has, in accordance with Swiss law, the right to have his arguments heard at the general assembly, either in person or via telephone or live stream. He can be accompanied to the hearing by a person of his choosing, who does not have to be a member of the association. If he does not wish to attend the hearing, he can submit his arguments in written form to the general assembly.
 
 *Non-payment of membership fees*
 
@@ -77,7 +76,7 @@ The general assembly is the highest organ of the association and consists of all
 The general assembly has the following responsibilities:
  - Approval of the protocol of last year's general assembly.
  - Approval of the annual report of the executive committee.
- - Approval of the annual financial statement, the auditor’s report.
+ - Approval of the annual financial statement and the auditor’s report.
  - Approval of the association's budget for the coming year.
  - Discharge of the executive committee.
  - Election of the internal or external auditor.
@@ -143,9 +142,7 @@ The recorder is responsible for the secretariat of the association, which among 
 
 *Other offices deemed necessary by the executive committee*
 
-Within this framework of offices, the executive committee is free to constitute and organize itself. In general multiple offices can be held by one person. The offices of president and vice‐president have to be held by two separate people. <sup>4</sup>
-
-<sup>4)</sup> *To be discussed: this is a very extensive solution, we can also have fewer offices.*
+Within this framework of offices, the executive committee is free to constitute and organize itself. In general multiple offices can be held by one person. The offices of president and vice‐president have to be held by two separate people. 
 
 ### Article 20 Meetings of the Executive Committee
 The executive committee meets as often as the affairs of the association require it. Executive committee meetings can be conducted in person or via any sort of electronic means, including telephone. Any member of the executive committee can call a meeting.
@@ -155,9 +152,7 @@ In case of disagreement during a meeting, any executive committee member can dem
 For votes regarding very important decisions for the association, the vote has to be taken by a majority of all executive committee members. In this case only the president holds a casting vote.
 
 ### Article 21 Entering into Obligations Only by Joint Signature
-Any legal act obligating the association by at least CHF 1000 or more can only be entered into by a joint signature of at least two executive committee members. <sup>5</sup>
-
-<sup>5)</sup> *To be discussed: gives some safety, can also be another amount.*
+Any legal act obligating the association by at least CHF 1000 or more can only be entered into by a joint signature of at least two executive committee members. 
 
 ### Article 22 Auditor
 At every general assembly an internal auditor is elected from the members for one year. The auditor cannot be part of the executive committee. The auditor audits the books and the annual financial statement. He compiles a report for the annual assembly.
