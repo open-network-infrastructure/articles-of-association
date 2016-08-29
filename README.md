@@ -32,7 +32,7 @@ The financial means of the associations consists of membership fees, all types o
 
 All the financial means of the association are to be permanently and exclusively used towards the goals of the association.
 
-In case of dissolution of the association all the remaining financial means have to be given to a another legal person domiciled in Switzerland. That other legal person has to be tax-exempt because its purpose is charitable or serving the common good. This rule is mandatory. <sup>1</sup>
+In case of dissolution of the association all the remaining financial means have to be given to another legal person domiciled in Switzerland. That other legal person has to be tax-exempt because its purpose is charitable or serving the common good. This rule is mandatory. <sup>1</sup>
 
 The financial year begins on 1st January and ends on 31st December.
 
@@ -47,7 +47,7 @@ Natural and legal persons can become members of the association.
 The executive committee decides on the admission of new members and informs the general assembly. An applicant who has been denied admission by the executive committee can appeal this decision at the next general assembly.
 
 ### Article 9 Membership Fee
-The membership fee are:
+The membership fees are:
  - CHF 10/year for natural persons
  - CHF 50/year for legal persons <sup>2</sup>
 
@@ -75,7 +75,7 @@ The general assembly is the highest organ of the association and consists of all
 
 ### Article 12 Responsibilities of the General Assembly
 The general assembly has the following responsibilities:
- - Approval of the protocol of last years general assembly.
+ - Approval of the protocol of last year's general assembly.
  - Approval of the annual report of the executive committee.
  - Approval of the annual financial statement, the auditor’s report.
  - Approval of the association's budget for the coming year.
@@ -85,13 +85,13 @@ The general assembly has the following responsibilities:
  - Changing or amending this charter.
  - Determination of the yearly membership fees.
  - Excluding members according to article 10 of this charter. <sup>3</sup>
- - Deciding on the items, that are put on the agenda by its members or the executive committee.
+ - Deciding on the items that are put on the agenda by its members or the executive committee.
  - Dissolution of this association.
 
 <sup>3)</sup> *Check if this is really the article that should be referenced.*
 
 ### Article 13 Calling of Ordinary and Extraordinary General Assemblies
-The general assembly is called yearly by the executive committee at least 30 days in advance. The executive committee or at least a fifth of all member can call for an extraordinary general assembly at least 20 days in advance. The persons calling for such an extraordinary general assembly have to state a reason for doing so.
+The general assembly is called yearly by the executive committee at least 30 days in advance. The executive committee or at least a fifth of all members can call for an extraordinary general assembly at least 20 days in advance. The persons calling for such an extraordinary general assembly have to state a reason for doing so.
 
 For both types of general assembly, the agenda has to be disclosed to the members in written form (electronic or via postal mail) at least 10 days in advance.
 
@@ -154,7 +154,7 @@ In case of disagreement during a meeting, any executive committee member can dem
 For votes regarding very important decisions for the association, the vote has to be taken by a majority of all executive committee members. In this case only the president holds a casting vote.
 
 ### Article 21 Entering into Obligations Only by Joint Signature
-Any legal act obligating the association by at least CHF 1000 or more can only be entered into by a joint signature of at least two executive committee member. <sup>5</sup>
+Any legal act obligating the association by at least CHF 1000 or more can only be entered into by a joint signature of at least two executive committee members. <sup>5</sup>
 
 <sup>5)</sup> *To be discussed: gives some safety, can also be another amount.*
 
