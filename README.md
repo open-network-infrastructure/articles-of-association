@@ -165,4 +165,4 @@ The dissolution of the association is decided by the general assembly and requir
 This charter was approved by the founding general assembly and has taken effect from this date forth.
 
 
-Zürich, 29. August 2016.
+Zürich, 29. August 2016
