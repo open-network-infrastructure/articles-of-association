@@ -47,14 +47,14 @@ The executive committee decides on the admission of new members and informs the 
 
 ### Article 9 Membership Fee
 The membership fees are:
- - CHF XX/year for natural persons
- - CHF XX/year for legal persons <sup>2</sup>
+ - CHF 23/year for natural persons.
+ - CHF 100/year for start-ups and institutions such as universites and schools. A start-up is any company that i not older than three years at the time the membership fee is due. The legal founding date of the start-up is used to calculate the age of the start-up.
+ - CHF 250/year for all other companies.
+The membership fees are to be paid in swiss francs or its equivalent in another currency deemed acceptable as payment by the executive committee.
 
-To be paid in swiss francs or its equivalent in another currency deemed acceptable as payment by the executive committee.
 
-<sup>2)</sup> *To be discussed*.
 
-### Article 10 Expiration of the Membership
+### Article 10 Expiration of the membership
 The membership expires through:
 
 *Leaving of the association*
@@ -162,7 +162,7 @@ If a majority of members present at the general assembly demand it ‐ even with
 ### Article 23 Dissolution of the Association
 The dissolution of the association is decided by the general assembly and requires a quorum of two thirds of the votes of present members.
 
-This charter was approved by the founding general assembly and has taken effect from this date forth.
+This charter was approved by the founding general assembly in Zurich on the 29th of August 2016 and has taken effect from this date forth.
 
 
-Zürich, 29. August 2016
+
