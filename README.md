@@ -1,5 +1,4 @@
 # Charter of the Open Network Infrastructure Association
-`Draft v0.1`
 
 ### Article 1 Legal Form and Name
 Under the name Open Network Infrastructure Association exists a non‐profit association according to the present charter and as defined by the articles 60 ff. of the Swiss Civil Code.
@@ -48,7 +47,7 @@ The executive committee decides on the admission of new members and informs the 
 ### Article 9 Membership Fee
 The membership fees are:
  - CHF 23/year for natural persons.
- - CHF 100/year for start-ups and institutions such as universites and schools. A start-up is any company that i not older than three years at the time the membership fee is due. The legal founding date of the start-up is used to calculate the age of the start-up.
+ - CHF 100/year for start-ups and institutions such as universites and schools. A start-up is any company that is not older than three years at the time the membership fee is due. The legal founding date of the start-up is used to calculate the age of the start-up.
  - CHF 250/year for all other companies.
 The membership fees are to be paid in swiss francs or its equivalent in another currency deemed acceptable as payment by the executive committee.
 
@@ -83,11 +82,9 @@ The general assembly has the following responsibilities:
  - Election of the members of the executive committee.
  - Changing or amending this charter.
  - Determination of the yearly membership fees.
- - Excluding members according to article 10 of this charter. <sup>3</sup>
+ - Excluding members according to article 10 of this charter.
  - Deciding on the items that are put on the agenda by its members or the executive committee.
  - Dissolution of this association.
-
-<sup>3)</sup> *Check if this is really the article that should be referenced.*
 
 ### Article 13 Calling of Ordinary and Extraordinary General Assemblies
 The general assembly is called yearly by the executive committee at least 30 days in advance. The executive committee or at least a fifth of all members can call for an extraordinary general assembly at least 20 days in advance. The persons calling for such an extraordinary general assembly have to state a reason for doing so.
