@@ -140,6 +140,7 @@ The recorder is responsible for the secretariat of the association, which among 
 *Other offices deemed necessary by the executive committee*
 
 Within this framework of offices, the executive committee is free to constitute and organize itself. In general multiple offices can be held by one person. The offices of president and vice‐president have to be held by two separate people. 
+<BR/>
 
 ### Article 20 Meetings of the Executive Committee
 The executive committee meets as often as the affairs of the association require it. Executive committee meetings can be conducted in person or via any sort of electronic means, including telephone. Any member of the executive committee can call a meeting.
