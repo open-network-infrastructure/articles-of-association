@@ -140,7 +140,6 @@ The recorder is responsible for the secretariat of the association, which among 
 *Other offices deemed necessary by the executive committee*
 
 Within this framework of offices, the executive committee is free to constitute and organize itself. In general multiple offices can be held by one person. The offices of president and vice‐president have to be held by two separate people. 
-<BR/>
 
 ### Article 20 Meetings of the Executive Committee
 The executive committee meets as often as the affairs of the association require it. Executive committee meetings can be conducted in person or via any sort of electronic means, including telephone. Any member of the executive committee can call a meeting.
@@ -148,6 +147,7 @@ The executive committee meets as often as the affairs of the association require
 In case of disagreement during a meeting, any executive committee member can demand a vote. The vote is decided by the majority of present executive committee members. The president, or in his absence the vice‐president, holds the casting vote.
 
 For votes regarding very important decisions for the association, the vote has to be taken by a majority of all executive committee members. In this case only the president holds a casting vote.
+<BR/>
 
 ### Article 21 Entering into Obligations Only by Joint Signature
 Any legal act obligating the association by at least CHF 1000 or more can only be entered into by a joint signature of at least two executive committee members. 
