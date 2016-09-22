@@ -56,9 +56,9 @@ The membership fees are to be paid in swiss francs or its equivalent in another 
 ### Article 10 Expiration of the membership
 The membership expires through:
 
-*Leaving of the association*
+*Leaving the association*
 
-The association can be left at any time by a written declaration, either via email or via postal mail addressed to a member of the executive committee. The member has left the association, when his declaration has reached the association, or can be assumed to have reached the association according to the ordinary run of events.
+The association can be left at any time by written declaration, either via email or via postal mail addressed to a member of the executive committee. The member has left the association when his declaration has reached the association, or can be assumed to have reached the association according to the ordinary run of events.
 
 *Exclusion due to important reasons*
 
@@ -160,6 +160,17 @@ If a majority of members present at the general assembly demand it ‐ even with
 The dissolution of the association is decided by the general assembly and requires a quorum of two thirds of the votes of present members.
 
 This charter was approved by the founding general assembly in Zurich on the 29th of August 2016 and has taken effect from this date forth.
+
+
+
+
+<BR/><BR/><BR/>
+The chairmain presiding the founding assembly:
+
+<BR/><BR/><BR/><BR/>
+
+
+The keeper of the minutes of the founding assembly:
 
 
 
