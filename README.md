@@ -46,9 +46,9 @@ The executive committee decides on the admission of new members and informs the 
 
 ### Article 9 Membership Fee
 The membership fees are:
- - CHF 23/year for natural persons.
- - CHF 100/year for start-ups and institutions such as universites and schools. A start-up is any company that is not older than three years at the time the membership fee is due. The legal founding date of the start-up is used to calculate the age of the start-up.
- - CHF 250/year for all other companies.
+ - CHF 23 per year for natural persons.
+ - CHF 100 per year for start-ups and institutions such as universites and schools. A start-up is any company that is not older than three years at the time the membership fee is due. The legal founding date of the start-up is used to calculate the age of the start-up.
+ - CHF 250 per year for all other companies.
 The membership fees are to be paid in swiss francs or its equivalent in another currency deemed acceptable as payment by the executive committee.
 
 
